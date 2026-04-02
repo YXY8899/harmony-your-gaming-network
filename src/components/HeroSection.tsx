@@ -20,7 +20,9 @@ const HeroSection = () => (
           Download Now
         </a>
         <a
-          href="#features"
+          href="https://ay2526s2-cs2103t-w09-1.github.io/tp/"
+          target="_blank"
+          rel="noopener noreferrer"
           className="px-8 py-4 border border-primary/40 text-primary font-heading font-semibold text-lg rounded-lg hover:bg-primary/10 transition-all duration-300 hover:scale-105"
         >
           View User Guide
