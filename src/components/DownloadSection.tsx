@@ -6,14 +6,16 @@ const DownloadSection = () => (
         Ready to organise your gaming world?
       </h2>
       <a
-        href="https://github.com"
+        href="https://github.com/AY2526S2-CS2103T-W09-1/tp/releases"
+        target="_blank"
+        rel="noopener noreferrer"
         className="inline-block px-10 py-5 bg-primary text-primary-foreground font-heading font-bold text-xl rounded-xl hover:shadow-[0_0_50px_hsl(var(--glow-primary)/0.5)] transition-all duration-300 hover:scale-105 mb-6"
       >
         Download Harmony v1.4
       </a>
       <p className="text-muted-foreground text-sm mb-8">Requires Java 17. Free forever.</p>
       <a
-        href="https://github.com"
+        href="https://github.com/AY2526S2-CS2103T-W09-1/tp"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
