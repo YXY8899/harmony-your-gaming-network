@@ -1,7 +1,7 @@
 const stats = [
   { value: "94%", label: "Reduction in time spent searching for contacts" },
-  { value: "3 sec", label: "Average time to find any contact" },
-  { value: "3.2B", label: "Gamers worldwide who need this" },
+  { value: "5 sec", label: "Average time to find any contact" },
+  { value: "3.5B", label: "Gamers worldwide who need this" },
 ];
 
 const StatsSection = () => (
